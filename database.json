@@ -1,0 +1,14 @@
+{
+  "ABCD" : {
+    "protcol" : "Sony",
+    "data" : {
+      "vol-up" : 12455
+    }
+  },
+  "AABC" : {
+    "protcol" : "NEC",
+    "data" : {
+      "vol-up" : 45299
+    }
+  }
+}
